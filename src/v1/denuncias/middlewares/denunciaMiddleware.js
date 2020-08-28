@@ -7,12 +7,12 @@ exports.validRequestBody = (req, res, next) => {
             return res.status(400).send({error: {message: 'Request Body com informação de endereço inválida.', code: '03'}});
         };
 
-        if (!req.body.denunciante.nome || !req.body.denunciante.cpf) {
+        if (!req.body.denunciante || !req.body.denunciante.nome || !req.body.denunciante.cpf) {
             logger.error({body: req.body, error: {message: 'Request Body com informação de denunciante inválida.', code: '04'}});
             return res.status(400).send({error: {message: 'Request Body com informação de denunciante inválida.', code: '04'}});
         };
 
-        if (!req.body.denuncia.titulo || !req.body.denuncia.descricao) {
+        if (!req.body.denuncia || !req.body.denuncia.titulo || !req.body.denuncia.descricao) {
             logger.error({body: req.body, error: {message: 'Request Body com informação da denúncia inválida.', code: '05'}});
             return res.status(400).send({error: {message: 'Request Body com informação da denúncia inválida.', code: '05'}});
         };
