@@ -1,0 +1,22 @@
+{"message":"Aplicação inicializada na porta 3007!","level":"info"}
+{"message":"Aplicação inicializada na porta 3007!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Conexão com o MongoDB conectada.","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Conexão com o MongoDB conectada.","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":{"body":{"longitude":-35.713458,"denunciante":{"nome":"José de Oliveira","cpf":"95761638037"},"denuncia":{"titulo":"Esgoto a céu aberto","descricao":"Existe um esgoto a céu aberto nesta localidade."}},"error":{"message":"Request Body com informação de endereço inválida.","code":"03"}},"level":"error"}
+{"message":{"body":{"longitude":-35.713458,"denunciante":{"nome":"José de Oliveira","cpf":"95761638037"},"denuncia":{"titulo":"Esgoto a céu aberto","descricao":"Existe um esgoto a céu aberto nesta localidade."}},"error":{"message":"Request Body com informação de endereço inválida.","code":"03"}},"level":"error"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Conexão com o MongoDB conectada.","level":"info"}
+{"message":{"body":{"longitude":-35.713458,"denunciante":{"nome":"José de Oliveira","cpf":"95761638037"},"denuncia":{"titulo":"Esgoto a céu aberto","descricao":"Existe um esgoto a céu aberto nesta localidade."}},"error":{"message":"Request Body com informação de endereço inválida.","code":"03"}},"level":"error"}
+{"message":{"body":{"longitude":-35.713458,"denunciante":{"nome":"José de Oliveira","cpf":"95761638037"},"denuncia":{"titulo":"Esgoto a céu aberto","descricao":"Existe um esgoto a céu aberto nesta localidade."}},"error":{"message":"Request Body com informação de endereço inválida.","code":"03"}},"level":"error"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
+{"message":"Aplicação inicializada na porta 3000!","level":"info"}
